@@ -1,0 +1,9 @@
+Thu Sep 10 13:06:50 2015
+->ls
+
+Thu Sep 10 13:06:56 2015
+->history
+
+Thu Sep 10 13:07:01 2015
+->exit
+

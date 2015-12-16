@@ -1,0 +1,51 @@
+Thu Sep 10 12:55:13 2015
+->ls
+
+Thu Sep 10 12:55:17 2015
+->history
+
+Thu Sep 10 12:55:20 2015
+->exit
+
+Thu Sep 10 12:56:11 2015
+->ls
+
+Thu Sep 10 12:56:13 2015
+->exit
+
+Thu Sep 10 12:59:02 2015
+->ls
+
+Thu Sep 10 12:59:08 2015
+->exit
+
+Thu Sep 10 13:02:28 2015
+->ls
+
+Thu Sep 10 13:02:30 2015
+->exit
+
+Thu Sep 10 13:05:10 2015
+->ls
+
+Thu Sep 10 13:05:22 2015
+->history
+
+Thu Sep 10 13:05:28 2015
+->ls | grep a
+
+Thu Sep 10 13:05:34 2015
+->top
+
+Thu Sep 10 13:05:49 2015
+->exit
+
+Thu Sep 10 13:13:21 2015
+->ls
+
+Thu Sep 10 13:13:36 2015
+->history
+
+Thu Sep 10 13:13:38 2015
+->exit
+
